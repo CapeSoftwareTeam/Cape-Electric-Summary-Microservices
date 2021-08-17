@@ -1,0 +1,6 @@
+2021-08-09T16:50:31.871+0530 INFO Starting SummaryServiceApplication using Java 15.0.2 on DESKTOP-EQ8CCC7 with PID 22940 (C:\Users\capeelectricsoftware\Documents\GitHub\Cape-Electric-Summary-Microservices\summary-service\target\classes started by capeelectricsoftware in C:\Users\capeelectricsoftware\Documents\GitHub\Cape-Electric-Summary-Microservices\summary-service)
+2021-08-09T16:50:31.873+0530 DEBUG Running with Spring Boot v2.5.3, Spring v5.3.9
+2021-08-09T16:50:31.873+0530 INFO No active profile set, falling back to default profiles: default
+2021-08-09T16:50:37.980+0530 INFO Started SummaryServiceApplication in 6.678 seconds (JVM running for 7.661)
+2021-08-17T07:56:56.588+0530 INFO No active profile set, falling back to default profiles: default
+2021-08-17T07:57:01.582+0530 INFO Started SummaryServiceApplication in 6.7 seconds (JVM running for 7.919)
